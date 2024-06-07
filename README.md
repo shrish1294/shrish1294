@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shrish1294
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in recommendation systems, Python, Flask, monitoring and ML system design.
+- 📫 How to reach me shrishtripathi1111@gmail.com
 
 <!---
 shrish1294/shrish1294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
